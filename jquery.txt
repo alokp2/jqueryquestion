@@ -1,0 +1,8 @@
+What is jQuery?
+JQuery is used to make the use of javascript easier on your website. It makes HTML document manipulation, transversal,event handling,and animations much simplier with easy use API that works across multiple browsers. 
+
+
+How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery ,JQuery Animation?
+By using css() method we can specify the css property to apply for the selected element. for example, the syntax looks like css("name of property");.so if we are applying for p tag we can use $("p").css("property"); To add a class we can use the addclass()method to add one or more classes similarly for remove class we can use the removeclass()method. We can use animate()method to create a custom animation.
+
+
